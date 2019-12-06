@@ -1,0 +1,7 @@
+class javatest{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java"); 
+      System.out.println("this is devops 1st program");
+    }  
+}  
+
